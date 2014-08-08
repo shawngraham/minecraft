@@ -9,11 +9,14 @@ The next step would be to load a historical map into the world, overlaying it, a
 Workflow
 ========
 For the DEMs, I'm grabbing data from http://dwtkns.com/srtm/
+
 I then load it into Microdem for clipping and converting to grayscale http://www.usna.edu/Users/oceano/pguth/microdem/win32/microdem_setup.exe
 
 This DEM is loaded into World painter http://www.worldpainter.net/ .
 
 Worldpainter can also load the historical map image overlays.
+
+A video tutorial by Adam Clarke on this process is at https://www.youtube.com/watch?v=Wha2m4_CPoo
 
 *more to come*
 
